@@ -1,2 +1,2 @@
 def question1():
-    pass
+    print("Hello World!")
